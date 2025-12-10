@@ -1,0 +1,45 @@
+{
+  "wellness_history": [
+    {
+      "timestamp": "2025-12-05T22:49:01.126048",
+      "audio_file": "pregnancy_checkin_20251205_224900.wav",
+      "emotion": "Tired/Sad",
+      "emotion_confidence": 0.2919902368525588,
+      "wellness_score": 0.4,
+      "wellness_level": "Moderate",
+      "trimester": 2,
+      "weeks_pregnant": 20,
+      "pregnancy_metrics": {
+        "energy_level": 5.343405791791156e-05,
+        "pitch_stability": 0.000895128003321588,
+        "voice_quality": 0.09714359790086746,
+        "emotional_variability": 233.5285186767578,
+        "speech_clarity": 5.264530867890631
+      },
+      "recommendations": [
+        "Rest when you can - your body is doing important work",
+        "Drink plenty of water and have a healthy snack",
+        "Take short breaks throughout the day",
+        "Practice gentle prenatal yoga",
+        "Stay connected with supportive friends"
+      ],
+      "baby_bonding": "Read a story aloud to Little One",
+      "user_note": "Voice check-in: emotional_checkin",
+      "all_emotion_probabilities": {
+        "Anxious": 0.2736847557019724,
+        "Calm": 0.21655036231061986,
+        "Frustrated": 0.02587220817920477,
+        "Happy": 0.027874009104499695,
+        "Surprised": 0.08182123299265173,
+        "Tired/Sad": 0.2919902368525588,
+        "Uncomfortable": 0.08220719485849275
+      }
+    }
+  ],
+  "daily_checkins": [],
+  "symptom_log": [],
+  "trimester": 2,
+  "weeks_pregnant": 20,
+  "baby_name": "Little One",
+  "save_date": "2025-12-05T22:49:01.136666"
+}

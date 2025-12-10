@@ -1,0 +1,15 @@
+{
+  "model_type": "RandomForestClassifier",
+  "feature_count": 49,
+  "emotions": [
+    "Anxious",
+    "Calm",
+    "Frustrated",
+    "Happy",
+    "Surprised",
+    "Tired/Sad",
+    "Uncomfortable"
+  ],
+  "training_date": "2025-12-05T22:48:51.575937",
+  "pregnancy_specific": true
+}
