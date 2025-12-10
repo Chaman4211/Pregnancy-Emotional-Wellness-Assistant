@@ -148,7 +148,7 @@ streamlit run app.py
 
 **📦 Model Integration (Optional)**
 
-You can plug in your trained emotion-classification model (e.g., CNN, RNN, MFCC-based classifier) by replacing the predict_emotion() function with your model loading + inference code.
+You can plug in your trained emotion-classification model (e.g., CNN, RNN, MFCC-based classifier)by replacing the predict_emotion()function with your model loading + inference code.
 
 If you want help integrating your real model, I can write that code for you.
 
