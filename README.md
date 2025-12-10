@@ -1,4 +1,4 @@
-#🤰 Pregnancy Emotional Wellness Assistant
+🤰 Pregnancy Emotional Wellness Assistant
 
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
@@ -6,7 +6,7 @@
 ![Dataset Included](https://img.shields.io/badge/Dataset-Included-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-🤰 Pregnancy Emotional Wellness Assistant
+
 Your AI-powered emotional wellness and pregnancy support system using voice analysis, text mood detection, symptom tracking, and interactive dashboarding — built using Streamlit.
 
 🌟 Project Overview
@@ -29,9 +29,7 @@ The system uses:
 💾 Local Data Privacy — nothing stored on server
 
 🚀 Live Demo (Streamlit Cloud)
-👉 (Add your Streamlit URL here after deployment)
-https://your-app-name.streamlit.app
-
+👉 https://pregnancy-emotional-wellness-assistant-rvpslhpnlc3rtzrrycsmk4.streamlit.app/
 🧠 Features
 🎤 Voice Emotion Analysis
 Upload an audio file (WAV/MP3)
