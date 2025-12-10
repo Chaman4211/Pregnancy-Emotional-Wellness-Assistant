@@ -1,7 +1,8 @@
 # Pregnancy-Emotional-Wellness-Assistant
 # Pregnancy & Child Care AI System 🤰👶
 
-![Project Status](https://img.shields.io/badge/status-ongoing-yellow)
+![Project Status](https://img.shields.io/badge/[status-ongoing-yellow)](https://pregnancy-emotional-wellness-assistant-rvpslhpnlc3rtzrrycsmk4.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![AI Model Ready](https://img.shields.io/badge/AI_Model-Ready-green)
 ![Dataset Included](https://img.shields.io/badge/Dataset-Included-orange)
